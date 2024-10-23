@@ -22,10 +22,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create a Resource Group
+- Create a Windows 10 VM and a Linux (Ubuntu) VM
+- Open Wireshark and start packet capture, filter for ICMP traffic only
+- Configure a Firewall (Network Security Group)
+- Observe various network protocols (SSH, DHCP, DNS, RDP)
 
 <h2>Actions and Observations</h2>
 
